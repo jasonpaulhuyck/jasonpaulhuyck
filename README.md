@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jasonpaulhuyck/osTicket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Traffic and NSGs Using Virtual Machines](https://github.com/jasonpaulhuyck/Network-Monitoring-using-Azure-VMs)
-  - [Virtual Private Networks (VPN) Setup and Usage](https://github.com/jasonpaulhuyck/azure-network-protocols)
+  - [Virtual Private Networks (VPN) Setup and Usage](https://github.com/jasonpaulhuyck/VPNs)
 
 <h2>Connect with me:</h2>
 
