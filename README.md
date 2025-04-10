@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jasonpaulhuyck/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jasonpaulhuyck/osTicket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Network Monitoring using Azure Virtual Machines](https://github.com/jasonpaulhuyck/configure-ad)
+  - [Network Monitoring using Azure Virtual Machines](https://github.com/jasonpaulhuyck/Network-Monitoring-using-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jasonpaulhuyck/azure-network-protocols)
 
 <h2>Connect with me:</h2>
